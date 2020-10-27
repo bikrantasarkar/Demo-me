@@ -1,4 +1,4 @@
-CORN BRANCH1
+CORN BRANCH1 and Dragons
 Goku
 Vegeta 
 Sausuke
@@ -9,3 +9,7 @@ Lee
 
 Naruto
 Itachi
+
+Charizard
+lizard
+squaddl
